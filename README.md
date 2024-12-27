@@ -23,7 +23,7 @@ This project allows users to control the system volume using hand gestures. It u
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-repo/hand-gesture-volume-control.git
+    git clone https://github.com/rishraks/Hand_Gesture_Volume_Control.git
     cd hand-gesture-volume-control
     ```
 2. Install required libraries:
